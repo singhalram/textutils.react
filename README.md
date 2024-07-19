@@ -1,2 +1,2 @@
 # textutils.react
-this is a persoal repo
+this is a personal repo
